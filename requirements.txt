@@ -1,0 +1,6 @@
+streamlit==1.26.0
+pandas==2.1.1
+numpy==1.25.0
+spacy==3.6.0
+thinc==8.2.3
+plotly==5.16.1
